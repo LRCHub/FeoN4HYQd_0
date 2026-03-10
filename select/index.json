@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Spectre",
+  "base_artist": "Alan Walker",
+  "createdAt": "2026-03-10T08:39:25.222169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/01_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spectre",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_Spectre_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Swastika Eyes (Spectre Mix)",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/03_Swastika_Eyes_(Spectre_Mix)_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spectre of Love",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/04_Spectre_of_Love_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moderate Spectre",
+      "artist": "Oh Hiroshima",
+      "has_synced": true,
+      "path": "select/05_Moderate_Spectre_Oh_Hiroshima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spectre",
+      "artist": "The-Dream",
+      "has_synced": false,
+      "path": "select/06_Spectre_The-Dream.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pale Spectre",
+      "artist": "The Wake",
+      "has_synced": true,
+      "path": "select/07_Pale_Spectre_The_Wake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/08_The_Spectre_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Spectre and His Mantra",
+      "artist": "Stray from the Path",
+      "has_synced": false,
+      "path": "select/09_The_Spectre_and_His_Mantra_Stray_from_the_Path.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spectre",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_Spectre_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Spectre",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/pl_01_The_Spectre_Alan_Walker.txt"
+    }
+  ]
+}
